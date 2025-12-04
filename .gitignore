@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Pastas geradas pelo Python
+__pycache__/
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Dados brutos (geralmente não versionar, principalmente se forem arquivos grandes/sensíveis)
+data/raw/
+
+# Arquivos temporários
+*.tmp
+*.log
